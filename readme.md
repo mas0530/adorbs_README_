@@ -1,13 +1,12 @@
-# e
+# Mariana's readme generator!
 ## Description:
-e
+a simple yet effective readme generator
 ## Installation:
-e
+you must install Node.js and run node index.js
 ## Usage:
-e
+undefined
 ## Credits:
-$data.credits}
+mas0530
 # License: 
 undefined
-        }
       
